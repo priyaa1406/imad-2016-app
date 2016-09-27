@@ -8,8 +8,8 @@ body {
     text-align: center;
 }
 
-.text-big {
-    font-size: 300%;
+tect-big {
+    font-size: 300px;
 }
 
 .bold {
@@ -20,3 +20,12 @@ body {
     height: 200px;
 }
 
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    color: #292727;
+    font-family: sans-serif;
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
