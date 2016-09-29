@@ -20,6 +20,6 @@ button.onClick = function () {
     };
    
    // Make the request
-   request.open("GET", "http://http://priyaa1406.imad.hasura-app.io/counter", true);
+   request.open('GET', 'http://http://priyaa1406.imad.hasura-app.io/counter', true);
    request.send(null);
 };
